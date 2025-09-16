@@ -1,1 +1,2 @@
 this is the first line of file text2
+this line is added by branch2 and it is intended to be a big paragraph but lacks enough words
