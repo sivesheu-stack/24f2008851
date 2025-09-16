@@ -1,0 +1,1 @@
+multi = print(a*b)
